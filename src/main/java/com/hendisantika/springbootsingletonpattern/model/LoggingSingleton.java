@@ -1,6 +1,6 @@
 package com.hendisantika.springbootsingletonpattern.model;
 
-import org.springframework.boot.logging.LogLevel;
+import com.hendisantika.springbootsingletonpattern.util.LogLevel;
 import org.springframework.context.annotation.Description;
 
 /**
